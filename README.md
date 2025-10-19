@@ -41,5 +41,4 @@ This **Hotel Management System** automates key hotel functions — helping staff
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/hotel-management-system.git
-cd hotel-management-system
+git clone https://github.com/Raj0825/hotel-management-system.git
